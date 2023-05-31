@@ -13,7 +13,7 @@ Use the zip file created above called `main.zip` and upload it
 **Runtime Settings**
 1. Runtime - `Go 1.x`
 2. Handler - `main`
-3. Architectire - `x86_64`
+3. Architecture - `x86_64`
 
 **Environment Variable**
 Set the following enviroment variables appropriately
