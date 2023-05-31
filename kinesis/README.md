@@ -1,6 +1,6 @@
 # How to setup Integration
 
-**This uses the built-in AWS Lambda and Kinesis integration to call the Stream Ingest API. At a high level the Lambda is auto invoked when events arrive in AWS Kinesis. The Lambda simply parses the records and sends them to Tecton for low latency ingestion.
+**This uses the built-in AWS Lambda and Kinesis integration to call the Stream Ingest API. At a high level the Lambda is auto invoked when events arrive in AWS Kinesis. The Lambda simply parses the records and sends them to Tecton for low latency ingestion**
 https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis.html
 
 ### Build and zip the go code for AWS Lambda
